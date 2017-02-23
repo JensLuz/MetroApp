@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Play",
+    "price": "€ 10",
+    "duration": "1 month"
+    "description": "Elke maand een pakket films en series.",
+    "image": "/Images/Play.png",
+	},
+  {
+    "id": 2,
+    "name": "Play More",
+    "price": "€ 15",
+    "duration": "1 month"
+    "description": "Elke maand nog meer films en series en replay wanneer je wil.",
+    "image": "/Images/Play More.png",
+	}
+]
